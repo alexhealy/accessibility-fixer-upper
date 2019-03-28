@@ -7,7 +7,7 @@ html {
 }
 
 .color-brand-dark {
-  color: #113c00;
+  color: #231f20;
 }
 
 a {
@@ -15,7 +15,7 @@ a {
 }
 
 a:hover {
-  color: #113c00;
+  color: #231f20;
 }
 
 .nav a:focus {
@@ -30,7 +30,7 @@ a:hover {
 
 .nav {
   position: relative;
-  background-color: #113c00;
+  background-color: #231f20;
   z-index: 2;
 }
 
@@ -41,7 +41,7 @@ a:hover {
 
 .nav a:hover {
   background-color: #fff;
-  color: #113c00;
+  color: #231f20;
 }
 
 .about {
@@ -49,12 +49,12 @@ a:hover {
 }
 
 .about-content {
-  background-color: #113c00;
+  background-color: #231f20;
   color: #fff;
 }
 
 .prices {
-  background-color: #231f20;
+  background-color: #f5f2f0;
 }
 
 th,
@@ -71,8 +71,8 @@ td {
 }
 
 .btn {
-  background-color: #113c00;
-  border-color: #113c00;
+  background-color: #231f20;
+  border-color: #231f20;
 
   color: #fff;
 }
@@ -83,7 +83,7 @@ td {
 }
 
 .footer {
-  background-color: #113c00;
+  background-color: #231f20;
   color: #fff;
 }
 
